@@ -9,6 +9,14 @@ import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
 public class Wiprojava8CodingQuesions {
+	public Wiprojava8CodingQuesions() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+
 	public static void main(String[] args) {
 		List<Employee> empList = new ArrayList<Employee>();
 		
